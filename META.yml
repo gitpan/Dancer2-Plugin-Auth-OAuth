@@ -38,6 +38,6 @@ resources:
   bugtracker: https://github.com/b10m/p5-Dancer2-Plugin-Auth-OAuth/issues
   homepage: https://github.com/b10m/p5-Dancer2-Plugin-Auth-OAuth
   repository: https://github.com/b10m/p5-Dancer2-Plugin-Auth-OAuth.git
-version: '0.03'
+version: '0.04'
 x_contributors:
   - 'B10m <menno@b10m.net>'
